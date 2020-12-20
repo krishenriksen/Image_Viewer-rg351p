@@ -11,7 +11,7 @@ image-viewer <image file> <image file> <image file>
   
 Use `image-viewer --help` to display program usage and control keys.
 
-Scroll images with up and down on the d-pad
+Scroll images with up and down on the d-pad and rotate with A button.
 
 ## Adding to emulationstation in ArkOS
 Add a new folder under /roms/ called images and place your images there.

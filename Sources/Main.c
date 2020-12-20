@@ -187,7 +187,7 @@ int main(int argc, char *argv[]) {
 							ViewportSetFlippingMode(Flipping_Mode);
 
 							// Zoom has been reset when flipping the image
-							Zoom_Factor = 1;		
+							Zoom_Factor = 1;
 						}
 
 						break;
