@@ -37,3 +37,10 @@ And copy the folder `images` under dependencies to your theme located in /etc/em
 `<include>./../gbz35.xml</include>`
 
 To quit the image viewer, press select or start on the Anbernic rg351p
+
+Support the project
+---
+
+[![Donate](https://github.com/krishenriksen/AnberPorts/raw/master/donate.png)](https://www.paypal.me/krishenriksendk)
+[![Patreon](https://github.com/krishenriksen/AnberPorts/raw/master/patreon.png)](https://www.patreon.com/bePatron?u=54003740)
+[![Sponsor](https://github.com/krishenriksen/AnberPorts/raw/master/sponsor.png)](https://github.com/sponsors/krishenriksen)
